@@ -14,6 +14,7 @@
 ||ratonga.io^
 ||ratonga.net^
 ||strongbrandsunited.com^
+||eva.guru^
 #
 actum-mobil.ddns.net
 actumgraz.freeddns.org
